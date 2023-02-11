@@ -5,3 +5,4 @@ This project works on issues about deep models training on the streaming data an
 
 ----------------------------------------------------------------------------------------------------
 This method utilises some clustering method and augmentation in data. It leads to have purposefull choice when training the models. In addition, for classes possessing minor number of member, it uses augmentation process which helps towards better training.
+
